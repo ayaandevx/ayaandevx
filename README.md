@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="xciQ1cULZn0UtvLQ8pCZMM6eq3GEhly8IZQq_DW2CGI" />
+
 <h1 align="center">Hi 👋, I'm Ayaan Shaikh</h1>
 <h3 align="center">Computer Science Student | Passionate Developer | Tech Enthusiast</h3>
 
