@@ -17,7 +17,7 @@
 - 💡 I enjoy building mobile & web apps, exploring system-level programming, and diving into open-source projects.
 - 📱 Skilled in **Android App Development** using **Java** and **Firebase**
 - 📚 Currently learning **Data Structures & Algorithms (DSA)** in **Java**
-- 
+ 
 - 🧠 **Languages & Proficiency:**
   - **Java** – Intermediate  
   - **C** –    Intermediate  
