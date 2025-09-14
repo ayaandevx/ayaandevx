@@ -6,14 +6,20 @@
 
 ##  About Me
 
-- 🎓 I’ve recently completed a **Diploma in Computer Science & Engineering**  
-  at *Shri Sai Institute of Technology, Aurangabad, India (September 2022 – June 2025)*  
+- 🎓 **Education:**
+  - **Diploma in Computer Science & Engineering**  
+    Shri Sai Institute of Technology, Aurangabad (Sept 2022 – June 2025)  
+    Affiliated with **MSBTE** (Maharashtra State Board of Technical Education)
+  - **Currently pursuing B.Tech in Computer Science Engineering** (Direct Second Year Entry)  
+    Everest College of Engineering, Aurangabad  
+    Affiliated with **DBATU** (Dr. Babasaheb Ambedkar Technological University)
+          
 - 💡 I enjoy building mobile & web apps, exploring system-level programming, and diving into open-source projects.
-- 📱 Skilled in **Android App Development** using Java and Firebase  
-- Currently learning **Data Structures & Algorithms (DSA)** in **Java**  & **Python**
-- Tech Stack Interests: App Dev (Java, Android), Web Dev (HTML/CSS/JS), and backend with Firebase.
-- 🥅 2025 Goal: Land a role as a software developer and contribute to impactful tech solutions.
-- ⚡ Fun Fact: I enjoy reading tech blogs and designing UI in my free time!
+- 📱 Skilled in **Android App Development** using **Java** and **Firebase**
+- 📚 Currently learning **Data Structures & Algorithms (DSA)** in **Java**
+- 🔧 Tech Stack Interests:  
+  - App Dev: Java, Android, Firebase
+  - Web Dev: HTML, CSS, JavaScript  
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayaanbyte&label=Profile%20views&color=0e75b6&style=flat" alt="ayaanbyte" />
@@ -26,7 +32,7 @@
 <p align="left">
   <a href="https://x.com/ayaanpy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/></a>
   <a href="https://linkedin.com/in/ayaandevx" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/ayaan.py" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/></a>
+  <a href="https://instagram.com/ayaanpy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/></a>
   <a href="https://leetcode.com/ayaanbyte" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode"/></a>
 </p>
 
@@ -72,9 +78,9 @@
 ## 📬 Let's Connect
 
 - 🐦 Twitter: [@ayaanpy](https://x.com/ayaanpy)
-- 💼 LinkedIn: [ayaanbyte](https://linkedin.com/in/ayaanbyte)
+- 💼 LinkedIn: [ayaandevx](https://linkedin.com/in/ayaandevx)
 - 💻 LeetCode: [ayaanbyte](https://leetcode.com/ayaanbyte)
-- 📸 Instagram: [@ayaan.py](https://instagram.com/ayaan.py)
+- 📸 Instagram: [@ayaanpy](https://instagram.com/ayaanpy)
 
 ---
 
