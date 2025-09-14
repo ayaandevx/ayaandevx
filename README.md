@@ -17,9 +17,13 @@
 - 💡 I enjoy building mobile & web apps, exploring system-level programming, and diving into open-source projects.
 - 📱 Skilled in **Android App Development** using **Java** and **Firebase**
 - 📚 Currently learning **Data Structures & Algorithms (DSA)** in **Java**
-- 🔧 Tech Stack Interests:  
-  - App Dev: Java, Android, Firebase
-  - Web Dev: HTML, CSS, JavaScript  
+- 
+- 🧠 **Languages & Proficiency:**
+  - **Java** – Intermediate  
+  - **C** –    Intermediate  
+  - **C++** –  Intermediate  
+  - **Python** – Beginner 
+  - **JavaScript** – Beginner
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayaanbyte&label=Profile%20views&color=0e75b6&style=flat" alt="ayaanbyte" />
