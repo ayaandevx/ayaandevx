@@ -83,7 +83,7 @@
 
 - 🐦 Twitter: [@ayaanpy](https://x.com/ayaanpy)
 - 💼 LinkedIn: [ayaandevx](https://linkedin.com/in/ayaandevx)
-- 💻 LeetCode: [ayaanbyte](https://leetcode.com/ayaanbyte)
+<!-- 💻 LeetCode: [ayaanbyte](https://leetcode.com/ayaanbyte) -->
 - 📸 Instagram: [@ayaanpy](https://instagram.com/ayaanpy)
 
 ---
