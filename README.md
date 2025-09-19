@@ -26,7 +26,7 @@
   - **JavaScript** – Beginner
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayaanbyte&label=Profile%20views&color=0e75b6&style=flat" alt="ayaanbyte" />
+  <img src="https://komarev.com/ghpvc/?username=ayaandevx&label=Profile%20views&color=0e75b6&style=flat" alt="ayaandevx" />
 </p>
 
 ---
@@ -34,10 +34,10 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://x.com/ayaanpy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/></a>
+  <a href="https://x.com/ayaandevx" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/></a>
   <a href="https://linkedin.com/in/ayaandevx" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>
   <a href="https://instagram.com/ayaanpy" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/></a>
-  <a href="https://leetcode.com/ayaanbyte" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/ayaandevx" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode"/></a>
 </p>
 
 ---
@@ -64,26 +64,26 @@
 ## 📈 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaanbyte&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaandevx&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaanbyte&show_icons=true&locale=en" alt="GitHub Stats"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaandevx&show_icons=true&locale=en" alt="GitHub Stats"/></p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayaanbyte&theme=algolia&row=1&column=6" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayaandevx&theme=algolia&row=1&column=6" alt="trophies"/>
 </p>
 
 ---
 
 ## 📬 Let's Connect
 
-- 🐦 Twitter: [@ayaanpy](https://x.com/ayaanpy)
+- 🐦 Twitter: [@ayaandevx](https://x.com/ayaandevx)
 - 💼 LinkedIn: [ayaandevx](https://linkedin.com/in/ayaandevx)
-<!-- 💻 LeetCode: [ayaanbyte](https://leetcode.com/ayaanbyte) -->
+- 💻 LeetCode: [ayaanbyte](https://leetcode.com/ayaandevx)
 - 📸 Instagram: [@ayaanpy](https://instagram.com/ayaanpy)
 
 ---
