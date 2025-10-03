@@ -12,8 +12,7 @@
   - **Currently pursuing B.Tech in Computer Science Engineering** (Direct Second Year Entry)  
     Everest College of Engineering, Aurangabad  
     Affiliated with **DBATU** (Dr. Babasaheb Ambedkar Technological University)
-- 💻 I love building **web** and **mobile apps**, exploring **system-level programming**,
-     and contributing to **open-source projects**
+- 💻 I love building **web** and **mobile apps**, exploring **system-level programming**,  and contributing to **open-source projects**
 - 📱 Experienced in **Android App Development** with **Java** and **Firebase**
 - 🧠 Currently diving deeper into **Data Structures & Algorithms (DSA)** using **Java**
 - 🌱 Always learning and experimenting with new technologies
