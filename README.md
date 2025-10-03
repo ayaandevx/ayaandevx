@@ -12,7 +12,8 @@
   - **Currently pursuing B.Tech in Computer Science Engineering** (Direct Second Year Entry)  
     Everest College of Engineering, Aurangabad  
     Affiliated with **DBATU** (Dr. Babasaheb Ambedkar Technological University)
-- 💻 I love building **web** and **mobile apps**, exploring **system-level programming**, and contributing to **open-source projects**
+- 💻 I love building **web** and **mobile apps**, exploring **system-level programming**,
+     and contributing to **open-source projects**
 - 📱 Experienced in **Android App Development** with **Java** and **Firebase**
 - 🧠 Currently diving deeper into **Data Structures & Algorithms (DSA)** using **Java**
 - 🌱 Always learning and experimenting with new technologies
@@ -42,9 +43,9 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
@@ -69,7 +70,6 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaandevx&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ayaandevx&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
