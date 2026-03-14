@@ -151,9 +151,6 @@ const ayaan = {
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayaandevx&repo=REPO_NAME_1&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9"/>
 </a>
 &nbsp;
-<!-- <a href="https://github.com/ayaandevx/REPO_NAME_2">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayaandevx&repo=REPO_NAME_2&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9"/>
-</a> -->
 
 </div>
 
@@ -216,11 +213,6 @@ const ayaan = {
 
 <div align="center">
 
-### 👀 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/ayaandevx/count.svg)
-
-<br/>
 
 *"Build things. Break things. Learn. Repeat."*
 
