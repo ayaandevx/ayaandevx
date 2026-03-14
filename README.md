@@ -1,108 +1,3 @@
-<h1 align="center">Hi , I'm Ayaan Shaikh</h1>
-<h3 align="center">Computer Science Student | Passionate Developer | Tech Enthusiast</h3>
-
----
-
-## 🚀 About Me
-
-- 🎓 **Education:**
-  - **Diploma in Computer Science & Engineering**  
-    Shri Sai Institute of Technology, Aurangabad (Sept 2022 – June 2025)  
-    Affiliated with **MSBTE** (Maharashtra State Board of Technical Education)
-  - **Currently pursuing B.Tech in Computer Science Engineering** (Direct Second Year Entry)  
-    Everest College of Engineering, Aurangabad  
-    Affiliated with **DBATU** (Dr. Babasaheb Ambedkar Technological University)
-- 💻 I love building **web** and **mobile apps**, exploring **system-level programming**,
-     and contributing to **open-source projects**
-- 📱 Experienced in **Android App Development** with **Java** and **Firebase**
-- 🧠 Currently diving deeper into **Data Structures & Algorithms (DSA)** using **Java**
-- 🌱 Always learning and experimenting with new technologies
-
----
-
-## 🧰 Technical Skills
-
-### 👨‍💻 Programming Languages:
-- Java (Intermediate)
-- C, C++ (Intermediate)
-- Python, JavaScript (Beginner)
-
-### 🖥️ Web Development:
-- **Frontend**: React.js, Next.js, Tailwind CSS, HTML, CSS, JavaScript, TypeScript  
-- **Backend**: Node.js, Express.js
-
-### 🛠️ Tools & Technologies:
-- Git & GitHub
-- Docker
-- Firebase
-- Android Studio
-- Linux
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" alt="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="Android"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaandevx&layout=compact&theme=tokyonight" alt="Top Languages"/>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayaandevx&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayaandevx&theme=algolia&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://x.com/ayaandevx" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/ayaandevx" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/ayaandevx" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/></a>
-  <a href="https://leetcode.com/ayaandevx" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayaandevx&label=Profile%20views&color=0e75b6&style=flat" alt="ayaandevx" />
-</p>
-
----
-
-⭐ *Thanks for visiting my profile! Let's build, learn, and grow together.*
-
 
 <div align="center">
 
@@ -416,402 +311,6 @@ fun_fact    : "I debug with console.log and I'm proud of it 😄"
 
 </div>
 ⭐ ⭐⭐*Thanks for visiting my profile! Let's build, learn, and grow together.*
-
-<!-- ████████████████████████████████████████████████████████████ -->
-<!--                    MATRIX BOOT SEQUENCE                      -->
-<!-- ████████████████████████████████████████████████████████████ -->
-
-<div align="center">
-
-<!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=ayaandevx&style=for-the-badge&color=00ff41&label=VISITORS+DETECTED" alt="Visitor Count"/>
-
-<!-- ANIMATED TYPING HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1200&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%5BSYSTEM+BOOT%5D+Initializing+Profile...;%E2%96%88+AYAAN+SHAIKH+%E2%96%88+Developer+Online;%3E+Loading+Skills...+%5BDONE%5D;%3E+Access+Granted.+Welcome.)](https://git.io/typing-svg)
-
-<!-- MATRIX RAIN BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=AYAAN%20SHAIKH&fontSize=72&color=0:00ff41,50:00b32d,100:003d0d&fontColor=00ff41&stroke=00ff41&strokeWidth=2&animation=fadeIn&fontAlignY=65&descSize=18&desc=Full-Stack%20Developer%20%7C%20Cyberpunk%20Coder%20%7C%20System%20Architect&descAlignY=85&descColor=39ff14" alt="Banner"/>
-
-</div>
-
-<!-- NEON DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.md" width="100%"/>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  > SYSTEM: Developer Profile v3.0                                ║
-║  > STATUS: 🟢 ONLINE                                             ║
-║  > LOCATION: Aurangabad, Maharashtra, India                      ║
-║  > MISSION: Building the Future, One Commit at a Time            ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<!-- NEON DIVIDER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:003d0d&height=3"/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;`> BOOT SEQUENCE — Identifying Target...`
-
-<img align="right" alt="Hacking GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
-
-```bash
-┌──[ayaan@cyberdeck]─[~]
-└─$ whoami
-
-  NAME     : Ayaan Shaikh
-  ROLE     : Full-Stack Developer & Android Engineer
-  STATUS   : B.Tech CSE @ Everest College, DBATU
-  PREV     : Diploma CSE @ SSIT, MSBTE  [Graduated 2025]
-  MISSION  : Building AI Tools & Advanced Web Apps
-  INTERESTS: DSA | Open Source | System Programming
-
-┌──[ayaan@cyberdeck]─[~]
-└─$ cat philosophy.txt
-
-  "Code is not just syntax — it's the language of creation."
-   I build, break, and rebuild until it's perfect.
-
-┌──[ayaan@cyberdeck]─[~]
-└─$ ./status.sh
-
-  🔴 Currently Learning  → DSA (Java) + Advanced React
-  🟡 Currently Building  → AI-powered Web Applications
-  🟢 Open To             → Collaborations & Opportunities
-```
-
-<br clear="right"/>
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> TECH ARSENAL — Scanning Installed Modules...`
-
-<div align="center">
-
-### `◈ PROGRAMMING LANGUAGES`
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-### `◈ FRONTEND TECHNOLOGIES`
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-### `◈ BACKEND TECHNOLOGIES`
-
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
----
-
-### `◈ MOBILE DEVELOPMENT`
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
----
-
-### `◈ DEV TOOLS & CLOUD / DEVOPS`
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> ANALYTICS DASHBOARD — Pulling GitHub Intel...`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayaandevx&show_icons=true&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41&hide_border=false" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaandevx&theme=matrix&background=0d0d0d&border=00ff41&stroke=00ff41&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=00ff41&dates=c9d1d9" alt="Streak Stats"/>
-
-<br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaandevx&layout=donut&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff41&title_color=00ff41&text_color=c9d1d9" alt="Top Languages"/>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayaandevx&bg_color=0d0d0d&color=00ff41&line=00ff41&point=39ff14&area=true&area_color=003d0d&border_color=00ff41&title_color=00ff41" alt="Activity Graph"/>
-
-<br/>
-
-<!-- TROPHIES -->
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=ayaandevx&theme=matrix&no-bg=true&no-frame=false&column=7&margin-w=4" alt="GitHub Trophies"/>
-
-</div>
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> FEATURED PROJECTS — Loading Portfolio Matrix...`
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-```
-╔═══════════════════════════════════╗
-║  PROJECT_01 :: Web Application    ║
-╚═══════════════════════════════════╝
-```
-**🌐 Full-Stack Web App**
-> A modern full-stack application featuring real-time data, authentication, and responsive UI.
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-[![Repo](https://img.shields.io/badge/◈_VIEW_REPO-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayaandevx)
-
-</td>
-<td width="50%">
-
-```
-╔═══════════════════════════════════╗
-║  PROJECT_02 :: Android App        ║
-╚═══════════════════════════════════╝
-```
-**📱 Android Mobile App**
-> Feature-rich Android application with real-time database, auth, and push notifications.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-[![Repo](https://img.shields.io/badge/◈_VIEW_REPO-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayaandevx)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-```
-╔═══════════════════════════════════╗
-║  PROJECT_03 :: Next.js Portfolio  ║
-╚═══════════════════════════════════╝
-```
-**⚡ Developer Portfolio Site**
-> Ultra-fast portfolio built with Next.js, Tailwind CSS, and smooth scroll animations.
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/◈_VIEW_REPO-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayaandevx)
-
-</td>
-<td width="50%">
-
-```
-╔═══════════════════════════════════╗
-║  PROJECT_04 :: DSA Engine         ║
-╚═══════════════════════════════════╝
-```
-**🧠 DSA Practice Engine**
-> Structured Data Structures & Algorithms solutions with complexity analysis and test cases.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/◈_VIEW_REPO-00ff41?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayaandevx)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> CURRENT MISSION — Intercepting Active Objectives...`
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   ██████╗ ██╗   ██╗██████╗ ██████╗ ███████╗███╗   ██╗████████╗     ║
-║   ██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔════╝████╗  ██║╚══██╔══╝     ║
-║   ██║  ╚═╝██║   ██║██████╔╝██████╔╝█████╗  ██╔██╗ ██║   ██║        ║
-║   ██║  ██╗██║   ██║██╔══██╗██╔══██╗██╔══╝  ██║╚██╗██║   ██║        ║
-║   ╚██████╔╝╚██████╔╝██║  ██║██║  ██║███████╗██║ ╚████║   ██║        ║
-║    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝   ╚═╝       ║
-║                      MISSION BRIEFING                                ║
-║                                                                      ║
-║  ▶ PRIMARY   → Mastering DSA with Java for SDE interviews           ║
-║  ▶ SECONDARY → Building AI-integrated web applications              ║
-║  ▶ TERTIARY  → Contributing to open-source projects                 ║
-║  ▶ SIDE OPS  → Exploring Docker & DevOps pipelines                  ║
-║                                                                      ║
-║  [████████████████████░░░░░░░] 68% to Next Level                    ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> NEURAL LINK — Establishing Connection Channels...`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayaandevx)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/ayaandevx)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ayaandevx)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/ayaandevx)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayaandevx@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayaandevx)
-
-</div>
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> CORE PROTOCOL — Dev Philosophy Uplink...`
-
-<div align="center">
-
-```
-  ╔════════════════════════════════════════════════════════════════╗
-  ║                                                                ║
-  ║   "Code is like the Matrix — once you see it,                 ║
-  ║         reality changes forever."                             ║
-  ║                                                               ║
-  ║   Every bug is a puzzle.  Every feature is a story.           ║
-  ║   Every commit is a step closer to mastery.                   ║
-  ║                                                               ║
-  ║                              — Ayaan Shaikh                   ║
-  ╚════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> CONTRIBUTION MATRIX — Tracing Digital Footprint...`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ayaandevx/ayaandevx/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-
-> ⚠️ To enable the snake animation: create a `.github/workflows/snake.yml` in your profile repo. See setup note below.
-
-</div>
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## `> EDUCATION LOG — Scanning Academic Records...`
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│  EDUCATION DATABASE                                          │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  [CURRENT]  B.Tech — Computer Science Engineering            │
-│             Everest College of Engineering, Aurangabad       │
-│             DBATU Affiliated  |  Direct 2nd Year Entry       │
-│             Status: 🟢 IN PROGRESS                          │
-│                                                              │
-│  [COMPLETE] Diploma — Computer Science & Engineering         │
-│             Shri Sai Institute of Technology, Aurangabad     │
-│             MSBTE Affiliated  |  Sept 2022 → June 2025       │
-│             Status: ✅ GRADUATED                             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- FOOTER BANNER -->
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003d0d,50:00b32d,100:00ff41&height=120&section=footer&text=SYSTEM+STATUS:+ONLINE+%7C+DEVELOPER+MODE:+ACTIVATED&fontSize=16&fontColor=00ff41&animation=twinkling&fontAlignY=65"/>
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  > UPTIME:        ∞                                          ║
-║  > KERNEL:        Developer v3.0                              ║
-║  > PROCESS:       [Building. Learning. Shipping.]             ║
-║  > LAST UPDATED:  Active                                      ║
-║                                                               ║
-║       Thanks for visiting. Let's build the future.           ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://komarev.com/ghpvc/?username=ayaandevx&style=for-the-badge&color=00ff41&label=TOTAL+PROFILE+SCANS" alt="Profile Views"/>
-
-</div>
-
----
-
-<!-- SNAKE WORKFLOW SETUP NOTE -->
-<details>
-<summary><b>⚙️ Setup: Enable Snake Contribution Animation</b></summary>
-
-Create `.github/workflows/snake.yml` in your profile repo (`ayaandevx/ayaandevx`) with:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
 
 *************************************************************
 ---
@@ -1309,4 +808,381 @@ jobs:
 After the workflow runs, it pushes SVGs to the `output` branch and the `<picture>` tag in this README auto-switches between light/dark mode versions.
 
 </details>
+--
+---
+-
+<!--
+  ╔─────────────────────────────────────────────────────────────╗
+    Ayaan Shaikh · GitHub Profile README · @ayaandevx
+    Design: Premium Developer Portfolio · Clean & Minimal
+  ╚─────────────────────────────────────────────────────────────╝
+-->
 
+<!-- ━━━━━━━━━━━━━━━━━━  HEADER  ━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=header" width="100%"/>
+
+<br/>
+
+# Hi there, I'm **Ayaan Shaikh** 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&height=40&lines=Full-Stack+Developer+%26+Android+Engineer;Building+scalable+software+%26+intelligent+systems;Open+Source+Contributor+%7C+DSA+Enthusiast;Always+learning.+Always+shipping.)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://linkedin.com/in/ayaandevx"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/></a>
+<a href="https://x.com/ayaandevx"><img src="https://img.shields.io/badge/Twitter%20·%20X-0d1117?style=flat-square&logo=x&logoColor=58A6FF" alt="Twitter"/></a>
+<a href="https://leetcode.com/ayaandevx"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=flat-square&logo=leetcode&logoColor=58A6FF" alt="LeetCode"/></a>
+<a href="mailto:ayaandevx@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=58A6FF" alt="Email"/></a>
+<a href="https://instagram.com/ayaandevx"><img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=58A6FF" alt="Instagram"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ayaandevx&style=flat-square&color=58A6FF&label=profile+views&labelColor=0d1117" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━  DIVIDER  ━━━━━━━━━━━━━━━━━━ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.md" width="100%"/>
+
+<!-- ━━━━━━━━━━━━━━━━━━  ABOUT  ━━━━━━━━━━━━━━━━━━ -->
+
+## About Me
+
+I'm a **Computer Science student** based in Aurangabad, India — currently pursuing a B.Tech in CSE at Everest College of Engineering (DBATU), with a completed Diploma in CSE from SSIT (MSBTE, 2025).
+
+I build full-stack web applications and Android apps with a focus on **clean architecture, real-world impact, and long-term maintainability**. Currently deepening my expertise in **Data Structures & Algorithms** and exploring the intersection of **AI and modern web development**.
+
+I believe great software is built by people who are obsessed with their craft — and I'm one of them.
+
+<br/>
+
+| 🎯 Focus | 📍 Location | 🎓 Education | 💼 Status |
+|:---:|:---:|:---:|:---:|
+| Full-Stack + Android | Aurangabad, India | B.Tech CSE · DBATU | Open to Work |
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━  DIVIDER  ━━━━━━━━━━━━━━━━━━ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.md" width="100%"/>
+
+<!-- ━━━━━━━━━━━━━━━━━━  TECH STACK  ━━━━━━━━━━━━━━━━━━ -->
+
+## Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
+<br/>
+
+![Java](https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=58A6FF)
+![C++](https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=58A6FF)
+![Python](https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=F7CC42)
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
+</details>
+
+<details open>
+<summary><b>Frontend</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-161b22?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161b22?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![HTML5](https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+</details>
+
+<details open>
+<summary><b>Backend & Database</b></summary>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![Express.js](https://img.shields.io/badge/Express.js-161b22?style=for-the-badge&logo=express&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/Firebase-161b22?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+</details>
+
+<details open>
+<summary><b>Mobile</b></summary>
+<br/>
+
+![Android](https://img.shields.io/badge/Android-161b22?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Android Studio](https://img.shields.io/badge/Android_Studio-161b22?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
+
+</details>
+
+<details open>
+<summary><b>Dev Tools & DevOps</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=0db7ed)
+![Linux](https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/VS_Code-161b22?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7)
+![Postman](https://img.shields.io/badge/Postman-161b22?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Vercel](https://img.shields.io/badge/Vercel-161b22?style=for-the-badge&logo=vercel&logoColor=ffffff)
+
+</details>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━  DIVIDER  ━━━━━━━━━━━━━━━━━━ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.md" width="100%"/>
+
+<!-- ━━━━━━━━━━━━━━━━━━  GITHUB ANALYTICS  ━━━━━━━━━━━━━━━━━━ -->
+
+## GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/ayaandevx">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ayaandevx&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_radius=10&hide_border=false"/>
+</a>
+<a href="https://github.com/ayaandevx">
+  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaandevx&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9&border_radius=10"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ayaandevx">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaandevx&layout=compact&langs_count=8&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58A6FF&text_color=c9d1d9&border_radius=10"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/ayaandevx">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayaandevx&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&area_color=1f6feb30&border_color=30363d&title_color=58A6FF&custom_title=Contribution+Activity&radius=10"/>
+</a>
+
+<br/><br/>
+
+<img width="96%" src="https://github-profile-trophy.vercel.app/?username=ayaandevx&theme=gitdimmed&no-bg=false&no-frame=false&column=7&margin-w=8&margin-h=8"/>
+
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━  DIVIDER  ━━━━━━━━━━━━━━━━━━ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.md" width="100%"/>
+
+<!-- ━━━━━━━━━━━━━━━━━━  FEATURED PROJECTS  ━━━━━━━━━━━━━━━━━━ -->
+
+## Featured Projects
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top" style="padding:16px">
+      <h3>🌐 Full-Stack Web Platform</h3>
+      <p>
+        A production-ready full-stack application with real-time data sync, JWT authentication, role-based access control, and a fully responsive UI.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=next.js&logoColor=ffffff"/>
+        <img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=node.js&logoColor=6DA55F"/>
+        <img src="https://img.shields.io/badge/Firebase-161b22?style=flat-square&logo=firebase&logoColor=FFCA28"/>
+      </p>
+      <a href="https://github.com/ayaandevx"><img src="https://img.shields.io/badge/View_Repository-161b22?style=flat-square&logo=github&logoColor=58A6FF"/></a>
+      <a href="https://github.com/ayaandevx"><img src="https://img.shields.io/badge/Live_Demo-161b22?style=flat-square&logo=vercel&logoColor=ffffff"/></a>
+    </td>
+    <td width="50%" valign="top" style="padding:16px">
+      <h3>📱 Android Application</h3>
+      <p>
+        Feature-rich Android app built with MVVM architecture, Firebase real-time database, push notifications, offline caching, and clean material design.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+        <img src="https://img.shields.io/badge/Android-161b22?style=flat-square&logo=android&logoColor=3DDC84"/>
+        <img src="https://img.shields.io/badge/Firebase-161b22?style=flat-square&logo=firebase&logoColor=FFCA28"/>
+      </p>
+      <a href="https://github.com/ayaandevx"><img src="https://img.shields.io/badge/View_Repository-161b22?style=flat-square&logo=github&logoColor=58A6FF"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding:16px">
+      <h3>⚡ Developer Portfolio Site</h3>
+      <p>
+        Ultra-performant personal portfolio built on Next.js 14 with App Router, Tailwind CSS, server components, and smooth page transitions.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_14-161b22?style=flat-square&logo=next.js&logoColor=ffffff"/>
+        <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6"/>
+        <img src="https://img.shields.io/badge/Tailwind-161b22?style=flat-square&logo=tailwind-css&logoColor=38B2AC"/>
+        <img src="https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=ffffff"/>
+      </p>
+      <a href="https://github.com/ayaandevx"><img src="https://img.shields.io/badge/View_Repository-161b22?style=flat-square&logo=github&logoColor=58A6FF"/></a>
+      <a href="https://github.com/ayaandevx"><img src="https://img.shields.io/badge/Live_Demo-161b22?style=flat-square&logo=vercel&logoColor=ffffff"/></a>
+    </td>
+    <td width="50%" valign="top" style="padding:16px">
+      <h3>🧠 DSA Solutions Engine</h3>
+      <p>
+        A structured repository of 200+ Data Structures & Algorithms solutions in Java, with Big-O analysis, pattern notes, and interview-focused problem sets.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+        <img src="https://img.shields.io/badge/LeetCode-161b22?style=flat-square&logo=leetcode&logoColor=FFA116"/>
+        <img src="https://img.shields.io/badge/Algorithms-161b22?style=flat-square&logo=thealgorithms&logoColor=58A6FF"/>
+      </p>
+      <a href="https://github.com/ayaandevx"><img src="https://img.shields.io/badge/View_Repository-161b22?style=flat-square&logo=github&logoColor=58A6FF"/></a>
+      <a href="https://leetcode.com/ayaandevx"><img src="https://img.shields.io/badge/LeetCode_Profile-161b22?style=flat-square&logo=leetcode&logoColor=FFA116"/></a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+[![All Repositories](https://img.shields.io/badge/→_View_All_Repositories-161b22?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/ayaandevx?tab=repositories)
+
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━  DIVIDER  ━━━━━━━━━━━━━━━━━━ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.md" width="100%"/>
+
+<!-- ━━━━━━━━━━━━━━━━━━  CURRENT FOCUS  ━━━━━━━━━━━━━━━━━━ -->
+
+## Current Focus
+
+What I'm working on right now:
+
+- **Mastering DSA** — Solving structured LeetCode problems in Java, targeting SDE interview readiness
+- **AI-integrated Web Apps** — Exploring how to embed language models into full-stack applications
+- **Open Source** — Making meaningful contributions to developer tools and libraries
+- **System Design** — Learning scalable architecture patterns for real-world distributed systems
+- **DevOps foundations** — Docker, CI/CD workflows, and cloud deployment basics
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━  DIVIDER  ━━━━━━━━━━━━━━━━━━ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.md" width="100%"/>
+
+<!-- ━━━━━━━━━━━━━━━━━━  ACHIEVEMENTS  ━━━━━━━━━━━━━━━━━━ -->
+
+## Highlights
+
+<div align="center">
+
+| Achievement | Details |
+|:---|:---|
+| 🎓 **Education** | Diploma CSE · MSBTE (2025) · B.Tech CSE · DBATU (In Progress) |
+| 💻 **Open Source** | Active contributor — building in public |
+| 🏆 **DSA** | 200+ problems solved across LeetCode & practice platforms |
+| 📱 **Android** | Built and shipped real Android apps with Firebase & Java |
+| 🌐 **Full-Stack** | Production-deployed Next.js + Node.js applications |
+
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━  DIVIDER  ━━━━━━━━━━━━━━━━━━ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.md" width="100%"/>
+
+<!-- ━━━━━━━━━━━━━━━━━━  CONTRIBUTION SNAKE  ━━━━━━━━━━━━━━━━━━ -->
+
+## Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayaandevx/ayaandevx/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayaandevx/ayaandevx/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ayaandevx/ayaandevx/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━  DIVIDER  ━━━━━━━━━━━━━━━━━━ -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.md" width="100%"/>
+
+<!-- ━━━━━━━━━━━━━━━━━━  CONNECT  ━━━━━━━━━━━━━━━━━━ -->
+
+## Let's Connect
+
+I'm always open to interesting conversations, collaborations, and new opportunities.
+
+<div align="center">
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ayaandevx)
+[![Twitter / X](https://img.shields.io/badge/Twitter_·_X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff)](https://x.com/ayaandevx)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/ayaandevx)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/ayaandevx)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ayaandevx@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/ayaandevx)
+
+</div>
+
+<br/>
+
+<!-- ━━━━━━━━━━━━━━━━━━  FOOTER  ━━━━━━━━━━━━━━━━━━ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" width="100%"/>
+
+<sub>
+  <b>Code. Build. Learn. Repeat.</b><br/>
+  <sup>Ayaan Shaikh · Aurangabad, India · 2025</sup>
+</sub>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ayaandevx&style=flat-square&color=58A6FF&label=profile+views&labelColor=0d1117" alt="Profile Views"/>
+
+</div>
+
+---
+
+<details>
+<summary>⚙️ Enable the Snake Contribution Animation</summary>
+
+<br/>
+
+Create `.github/workflows/snake.yml` in your `ayaandevx/ayaandevx` profile repository:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
