@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ayaan%20Shaikh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Android%20Engineer%20%E2%80%A2%20DSA%20Enthusiast&descAlignY=57&descSize=15&descColor=a89fd8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ayaan%20Shaikh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Android%20Engineer%20%E2%80%A2%20Computer%20Science%20Student&descAlignY=57&descSize=15&descColor=a89fd8" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=console.log(%22Hello%2C+World!%22+%F0%9F%91%8B);Full-Stack+Web+Developer+%F0%9F%8C%90;Android+App+Developer+%F0%9F%93%B1;DSA+Problem+Solver+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=console.log(%22Hello%2C+World!%22+%F0%9F%91%8B);Full-Stack+Web+Developer+%F0%9F%8C%90;Android+App+Developer+%F0%9F%93%B1;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -41,7 +41,7 @@ const ayaan = {
     "DSA Problem Solver",
     "Open Source Contributor",
   ],
-  learning : ["Advanced DSA · Java", "System Design", "DevOps & CI/CD"],
+  learning : ["Advanced DSA", "System Design", "DevOps & CI/CD"],
   motto    : "Build things. Break things. Learn. Repeat.",
 };
 ```
@@ -146,15 +146,14 @@ const ayaan = {
 
 <div align="center">
 
-> 💡 Replace `REPO_NAME_1` and `REPO_NAME_2` with your actual repository names.
 
-<a href="https://github.com/ayaandevx/REPO_NAME_1">
+<a href="https://github.com/ayaandevx/Android-Chatting-App">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayaandevx&repo=REPO_NAME_1&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9"/>
 </a>
 &nbsp;
-<a href="https://github.com/ayaandevx/REPO_NAME_2">
+<!-- <a href="https://github.com/ayaandevx/REPO_NAME_2">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayaandevx&repo=REPO_NAME_2&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9"/>
-</a>
+</a> -->
 
 </div>
 
@@ -163,10 +162,9 @@ const ayaan = {
 ## 🗺️ 2025 Roadmap
 
 ```
- DSA with Java           ████████████░░░░░░░░  60%   🔥 Active
+ DSA with Java           █████░░░░░░░░░░░░░░░  25%   🔥 Active
  Full-Stack Projects     █████████████████░░░  85%   ⚡ Shipping
  System Design           █████░░░░░░░░░░░░░░░  25%   📖 Learning
- Open Source Contrib.    ████████░░░░░░░░░░░░  40%   🌱 Growing
  Docker & DevOps         █████░░░░░░░░░░░░░░░  25%   🐳 Exploring
  B.Tech — DBATU          █████░░░░░░░░░░░░░░░  25%   🎓 Ongoing
 ```
