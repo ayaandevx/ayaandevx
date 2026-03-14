@@ -415,3 +415,285 @@ fun_fact    : "I debug with console.log and I'm proud of it 😄"
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+⭐ ⭐⭐*Thanks for visiting my profile! Let's build, learn, and grow together.*
+
+---
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=AYAAN%20SHAIKH&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⟨%20Building%20the%20Future%2C%20One%20Commit%20at%20a%20Time%20⟩&descAlignY=58&descSize=15&stroke=58a6ff&strokeWidth=2" width="100%"/>
+
+<!-- TYPING + BADGES ROW -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=550&lines=%F0%9F%92%BB+Full-Stack+Web+Developer;%F0%9F%93%B1+Android+App+Developer+%7C+Java+%2B+Firebase;%F0%9F%A7%A0+DSA+Problem+Solver+%7C+Java;%F0%9F%8C%B1+B.Tech+CSE+%40+Everest+College%2C+DBATU;%F0%9F%9A%80+Open+Source+%7C+Always+Shipping)](https://git.io/typing-svg)
+
+<br/>
+
+![](https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=flat-square&logo=checkmarx&logoColor=white)
+![](https://img.shields.io/badge/Location-Aurangabad%2C%20India-blue?style=flat-square&logo=google-maps&logoColor=white)
+![](https://img.shields.io/badge/Focus-Full%20Stack%20%7C%20Android-orange?style=flat-square&logo=target&logoColor=white)
+
+</div>
+
+---
+
+<!-- ABOUT + CODE BLOCK SPLIT -->
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### 👨‍💻 &nbsp;`whoami`
+
+> Computer Science student from **Aurangabad, India** — currently in my B.Tech at **Everest College (DBATU)**, with a completed Diploma from **SSIT (MSBTE)**.
+>
+> I build **full-stack web apps** and **Android applications**, obsess over clean code, and slowly conquer **DSA with Java** one problem at a time.
+>
+> I believe in shipping real things, not just tutorials. Every project I start, I try to finish.
+
+<br/>
+
+| 🔭 Working On | Full-Stack Projects + DSA |
+|:---|:---|
+| 🌱 Learning | System Design + DevOps |
+| 🤝 Looking For | Internships & Collabs |
+| ⚡ Superpower | Turning ☕ into `git push` |
+| 📍 Based In | Aurangabad, MH, India |
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayaandevx&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaandevx&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- TECH STACK - VISUAL GRID -->
+
+## 🛠️ &nbsp;Technology Arsenal
+
+<div align="center">
+
+**⟨ Languages ⟩**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+<br/>
+
+**⟨ Frontend ⟩**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<br/>
+
+**⟨ Backend & Mobile ⟩**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+<br/>
+
+**⟨ Tools & DevOps ⟩**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+</div>
+
+---
+
+<!-- CONTRIBUTION GRAPH -->
+
+## 📈 &nbsp;Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayaandevx&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb&area=true&hide_border=true&custom_title=Ayaan's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<!-- STATS ROW -->
+
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaandevx&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
+
+&nbsp;&nbsp;
+
+<img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayaandevx&theme=github_dark" alt="Profile Summary"/>
+
+</div>
+
+---
+
+<!-- FEATURED PROJECTS -->
+
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+
+> 📌 *Replace the repo names below with your actual projects*
+
+<a href="https://github.com/ayaandevx/YOUR_REPO_1">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayaandevx&repo=YOUR_REPO_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/ayaandevx/YOUR_REPO_2">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayaandevx&repo=YOUR_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+</div>
+
+---
+
+<!-- ROADMAP -->
+
+## 🗺️ &nbsp;2025 Roadmap
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    AYAAN'S 2025 GOALS                       │
+├──────────────────────────────────────┬──────────────────────┤
+│  Milestone                           │  Status              │
+├──────────────────────────────────────┼──────────────────────┤
+│  Solve 300+ LeetCode Problems        │  🔥 In Progress      │
+│  Launch 3 Full-Stack Projects        │  ⚡ Building         │
+│  Publish Android App to Play Store   │  📱 Planned          │
+│  10+ Open Source Contributions       │  🌱 Started          │
+│  Master System Design Basics         │  📖 Learning         │
+│  CI/CD Pipeline with Docker          │  🐳 Exploring        │
+│  Complete B.Tech 2nd Year            │  🎓 Ongoing          │
+└──────────────────────────────────────┴──────────────────────┘
+```
+
+</div>
+
+---
+
+<!-- TROPHIES -->
+
+## 🏆 &nbsp;Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayaandevx&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=8" width="80%"/>
+
+</div>
+
+---
+
+<!-- QUOTE + FUN FACTS -->
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 💡 &nbsp;Dev Philosophy
+
+> *"First, solve the problem.  
+> Then, write the code."*
+> — John Johnson
+
+> *"Any fool can write code that a  
+> computer can understand. Good programmers  
+> write code that humans can understand."*
+> — Martin Fowler
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ &nbsp;Quick Facts
+
+```js
+const ayaan = {
+  pronouns   : "he/him",
+  code       : ["Java","JS","TS","C++"],
+  tools      : ["React","Next.js","Node"],
+  mobile     : ["Android","Firebase"],
+  learning   : ["DSA","System Design"],
+  hobbies    : ["coding","debugging",
+                "open source","coffee"],
+  motto      : "Ship it. Fix it. Ship again."
+}
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- CONNECT -->
+
+## 🤝 &nbsp;Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ayaandevx">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://x.com/ayaandevx">
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/ayaandevx">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/ayaandevx">
+  <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+📬 &nbsp;**Open to internships, collaborations, and interesting problems to solve.**  
+Feel free to reach out on LinkedIn or drop a follow anywhere above!
+
+</div>
+
+---
+
+<!-- FOOTER -->
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ayaandevx&label=Profile+Views&color=1f6feb&style=for-the-badge" alt="Profile Views"/>
+
+<br/><br/>
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+         Thanks for visiting — go build something! 🚀
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
