@@ -121,39 +121,6 @@ const ayaan = {
 
 ---
 
-## 🌊 Contribution Graph
-
-<div align="center">
-
-[![Ayaan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayaandevx&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayaandevx&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-
-<a href="https://github.com/ayaandevx/Android-Chatting-App">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayaandevx&repo=REPO_NAME_1&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9"/>
-</a>
-&nbsp;
-
-</div>
-
----
 
 ## 🗺️ 2025 Roadmap
 
