@@ -105,6 +105,21 @@ const ayaan = {
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayaandevx&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
+&nbsp;
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaandevx&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa"/>
+
+<br/><br/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaandevx&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
+
+</div>
+
+---
 
 
 ## 🌊 Contribution Graph
