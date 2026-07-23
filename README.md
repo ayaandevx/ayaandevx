@@ -30,7 +30,6 @@
 const ayaan = {
   name     : "Ayaan Shaikh",
   alias    : "ayaandevx",
-  location : "Aurangabad, Maharashtra 🇮🇳",
   education: {
     degree  : "B.Tech CSE — Everest College (DBATU)",
     diploma : "Diploma CSE — SSIT Aurangabad (MSBTE)",
