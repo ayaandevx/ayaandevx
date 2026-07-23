@@ -105,23 +105,41 @@ const ayaan = {
 
 ---
 
-## 📊 GitHub Analytics
+
+
+## 🌊 Contribution Graph
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayaandevx&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-&nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayaandevx&theme=midnight-purple&hide_border=true&background=0d1117&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa"/>
-
-<br/><br/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayaandevx&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
+[![Ayaan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayaandevx&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
+## 🏆 GitHub Trophies
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayaandevx&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+
+<a href="https://github.com/ayaandevx/Android-Chatting-App">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayaandevx&repo=REPO_NAME_1&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f59e0b&text_color=c9d1d9"/>
+</a>
+&nbsp;
+
+</div>
+
+---
 ## 🗺️ 2025 Roadmap
 
 ```
