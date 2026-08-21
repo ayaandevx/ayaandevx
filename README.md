@@ -1,174 +1,68 @@
-<div align="center">
+<h1 align="center">Ayaan Shaikh</h1>
+<h3 align="center">Android Developer (Kotlin & Java) | Learning Jetpack Compose & DSA</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ayaan%20Shaikh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Android%20Engineer%20%E2%80%A2%20Computer%20Science%20Student&descAlignY=57&descSize=15&descColor=a89fd8" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=console.log(%22Hello%2C+World!%22+%F0%9F%91%8B);Full-Stack+Web+Developer+%F0%9F%8C%90;Android+App+Developer+%F0%9F%93%B1;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayaandevx)
-[![Twitter / X](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ayaandevx)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayaandevx)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ayaandevx)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ayaandevx&label=Profile+Views&color=7c3aed&style=flat-square&abbreviated=true)
-![Followers](https://img.shields.io/github/followers/ayaandevx?label=Followers&style=flat-square&color=7c3aed&logo=github)
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/ayaandevx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/ayaandevx"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://x.com/ayaandevx"><img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+</p>
 
 ---
 
-## `whoami`
+### About
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="coding gif"/>
+Android developer with hands-on experience building 10+ apps using Java and Android Studio. Currently transitioning to modern Android development with **Kotlin** and **Jetpack Compose**, while strengthening **Data Structures & Algorithms** fundamentals.
 
-```ts
-const ayaan = {
-  name     : "Ayaan Shaikh",
-  alias    : "ayaandevx",
-  education: {
-    degree  : "B.Tech CSE — Everest College (DBATU)",
-    diploma : "Diploma CSE — SSIT Aurangabad (MSBTE)",
-  },
-  roles    : [
-    "Full-Stack Web Developer",
-    "Android App Developer",
-    "DSA Problem Solver",
-    "Open Source Contributor",
-  ],
-  learning : ["Advanced DSA", "System Design", "DevOps & CI/CD"],
-  motto    : "Build things. Break things. Learn. Repeat.",
-};
-```
-
-<br clear="right"/>
+- 🎓 B.Tech CSE — Everest College (DBATU) | Diploma CSE — SSIT Aurangabad (MSBTE)
+- 📱 Focus: Kotlin, Jetpack Compose, Android Studio
+- 📚 Learning: DSA, modern Android architecture
+- 🧩 Also familiar with: MERN stack, Unity (exploring game dev)
 
 ---
 
-## ⚡ Tech Stack
+### Tech Stack
 
-<details open>
-<summary><b>🖥️ Frontend</b></summary>
-<br/>
+**Android**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages & Data**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Database</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</details>
-
-<details open>
-<summary><b>📱 Mobile</b></summary>
-<br/>
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🛠️ Languages & Tools</b></summary>
-<br/>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</details>
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-## 🗺️ 2025 Roadmap
+### Featured Projects
+
+**[Android-Chatting-App](https://github.com/ayaandevx/Android-Chatting-App)** — Android chat app built with Java, covering core Android components and UI.
+
+**[java-practice-journey](https://github.com/ayaandevx/java-practice-journey)** — Ongoing practice repo for Core Java, Advanced Java, and DSA.
+
+**[c-practice-journey](https://github.com/ayaandevx/c-practice-journey)** — C programming fundamentals practice.
+
+*New Kotlin + Jetpack Compose projects in progress — will be added here as they're completed.*
+
+---
+
+### Currently Working On
 
 ```
- DSA with Java           █████░░░░░░░░░░░░░░░  25%   🔥 Active
- Full-Stack Projects     █████████████████░░░  85%   ⚡ Shipping
- System Design           █████░░░░░░░░░░░░░░░  25%   📖 Learning
- Docker & DevOps         █████░░░░░░░░░░░░░░░  25%   🐳 Exploring
- B.Tech — DBATU          █████░░░░░░░░░░░░░░░  25%   🎓 Ongoing
+Kotlin + Jetpack Compose   ███████░░░░░░░░░░░░░  Learning
+Data Structures & Algo     ██████░░░░░░░░░░░░░░  Practicing
+Rebuilding Java apps       ████░░░░░░░░░░░░░░░░  Planned
 ```
 
-<details>
-<summary><b>📌 2025 Goals</b></summary>
-<br/>
-
-- [ ] 🏆 Solve **300+** problems on LeetCode
-- [ ] 🌐 Ship **3 full-stack projects** to production
-- [ ] 📱 Publish an Android app to **Google Play**
-- [ ] 🤝 Land **10+ merged open-source PRs**
-- [ ] 🐳 Build a project with **Docker + CI/CD**
-- [ ] 📚 Complete B.Tech second year with distinction
-
-</details>
-
 ---
 
-## 🌐 Let's Connect
+### Connect
 
-<div align="center">
-
-| 🔗 | Platform | Handle |
-|:--:|:--------:|:------:|
-| 💼 | **LinkedIn** | [linkedin.com/in/ayaandevx](https://linkedin.com/in/ayaandevx) |
-| 🐦 | **Twitter / X** | [x.com/ayaandevx](https://x.com/ayaandevx) |
-| 📸 | **Instagram** | [instagram.com/ayaandevx](https://instagram.com/ayaandevx) |
-| 🧩 | **LeetCode** | [leetcode.com/ayaandevx](https://leetcode.com/ayaandevx) |
-| 📧 | **Email** | *Available via LinkedIn* |
-
-<br/>
-
-[![Connect on LinkedIn](https://img.shields.io/badge/Let's%20Connect-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayaandevx)
-
-</div>
-
----
-
-## 💬 Dev Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
-
-<div align="center">
-
-
-*"Build things. Break things. Learn. Repeat."*
-
-**— Ayaan Shaikh**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
-
-</div>
+📌 [LinkedIn](https://linkedin.com/in/ayaandevx) · [LeetCode](https://leetcode.com/ayaandevx) · [X/Twitter](https://x.com/ayaandevx)
