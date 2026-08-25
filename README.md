@@ -8,8 +8,6 @@
 </p>
 
 ---
-![Visitor Count](https://glitch.me/ghpvc/?username=ayaandevx)
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayaandevx)
 ### About
