@@ -8,10 +8,10 @@
 </p>
 
 ---
-![Visitor Count](https://glitch.me)
+![Visitor Count](https://glitch.me/ayaandevx)
 
 
-![Profile Views](https://komarev.com)
+![Profile Views](https://komarev.com/ayaandevx)
 ### About
 
 Android developer with hands-on experience building 10+ apps using Java and Android Studio. Currently transitioning to modern Android development with **Kotlin** and **Jetpack Compose**, while strengthening **Data Structures & Algorithms** fundamentals.
