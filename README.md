@@ -1,5 +1,5 @@
 <h1 align="center">Ayaan Shaikh</h1>
-<h3 align="center">Android Developer (Kotlin & Java) | Learning Jetpack Compose & DSA</h3>
+<h3 align="center">Android Developer (Kotlin & Java) |Jetpack Compose & DSA</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ayaandevx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -46,7 +46,7 @@ Android developer with hands-on experience building 10+ apps using Java and Andr
 
 **[Android-Chatting-App](https://github.com/ayaandevx/Android-Chatting-App)** — Android chat app built with Java, covering core Android components and UI.
 
-**[java-practice-journey](https://github.com/ayaandevx/java-practice-journey)** — Ongoing practice repo for Core Java, Advanced Java, and DSA.
+**[Exam_Prep_App](https://github.com/ayaandevx/Exam_Prep_App)** — Multi-Subject Exam Practice App
 
 **[c-practice-journey](https://github.com/ayaandevx/c-practice-journey)** — C programming fundamentals practice.
 
