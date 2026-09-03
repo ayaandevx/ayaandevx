@@ -40,26 +40,11 @@ Android developer with hands-on experience building 10+ apps using Java and Andr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
-
-### Featured Projects
-
-**[Android-Chatting-App](https://github.com/ayaandevx/Android-Chatting-App)** — Android chat app built with Java, covering core Android components and UI.
-
-**[Exam_Prep_App](https://github.com/ayaandevx/Exam_Prep_App)** — Multi-Subject Exam Practice App
-
-**[c-practice-journey](https://github.com/ayaandevx/c-practice-journey)** — C programming fundamentals practice.
-
-*New Kotlin + Jetpack Compose projects in progress — will be added here as they're completed.*
-
----
 
 ### Currently Working On
 
 ```
-Kotlin + Jetpack Compose   ███████░░░░░░░░░░░░░  Learning
 Data Structures & Algo     ██████░░░░░░░░░░░░░░  Practicing
-Rebuilding Java apps       ████░░░░░░░░░░░░░░░░  Planned
 ```
 
 ---
